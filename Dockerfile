@@ -1,4 +1,4 @@
-FROM wakeup706/docker-rpi-python
+FROM wakeup706/rpi-python
 
 RUN pip install paho-mqtt
 
